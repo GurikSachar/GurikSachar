@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GurikSachar
+- 👋 Hi, I’m Gurik Sachar!
 - 👀 I’m interested in competitive programming, game development and web development.
 - 🌱 I’m currently learning C and C++.
 - 💞️ I’m looking to collaborate on NA
